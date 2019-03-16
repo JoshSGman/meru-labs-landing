@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/meru-labs-landing/precache-manifest.ad4351d832dd18bc31182c1d103c08fc.js"
+  "/meru-labs-landing/precache-manifest.c0532b5a4163ea5334c910c099ace54d.js"
 );
 
 workbox.clientsClaim();
