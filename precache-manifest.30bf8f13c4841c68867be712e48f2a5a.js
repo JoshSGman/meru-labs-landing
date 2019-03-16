@@ -28,12 +28,16 @@ self.__precacheManifest = [
     "url": "/static/media/DoughDealerLogo.2b8ac48d.png"
   },
   {
+    "revision": "c2192cf790c7fac4c4971aad0b70fce3",
+    "url": "/static/media/TTChocolates-BoldItalic.c2192cf7.woff2"
+  },
+  {
     "revision": "ebd1813f130e3f50cadaa02cf70c8283",
     "url": "/static/media/TTChocolates-Light.ebd1813f.woff2"
   },
   {
-    "revision": "c2192cf790c7fac4c4971aad0b70fce3",
-    "url": "/static/media/TTChocolates-BoldItalic.c2192cf7.woff2"
+    "revision": "724c044bbac59ddec5445a4659df9d76",
+    "url": "/static/media/TTChocolates-Regular.724c044b.woff2"
   },
   {
     "revision": "d58427cabbcb19835e9e2abbc8b8be8a",
@@ -44,16 +48,8 @@ self.__precacheManifest = [
     "url": "/static/media/TTChocolates-Black.6b358842.woff2"
   },
   {
-    "revision": "724c044bbac59ddec5445a4659df9d76",
-    "url": "/static/media/TTChocolates-Regular.724c044b.woff2"
-  },
-  {
     "revision": "b267554ffc2b5f426e54a249bf87c6f7",
     "url": "/static/media/TTChocolates-BoldItalic.b267554f.woff"
-  },
-  {
-    "revision": "78fd534b6aac07b9a4e94bdf42b9617f",
-    "url": "/static/media/TTChocolates-Regular.78fd534b.woff"
   },
   {
     "revision": "803f922c80341e93fc401d15c1caf0fe",
@@ -62,6 +58,10 @@ self.__precacheManifest = [
   {
     "revision": "88ea61bb3c15c1d39ca5fc50f9c3c989",
     "url": "/static/media/TTChocolates-Italic.88ea61bb.woff"
+  },
+  {
+    "revision": "78fd534b6aac07b9a4e94bdf42b9617f",
+    "url": "/static/media/TTChocolates-Regular.78fd534b.woff"
   },
   {
     "revision": "1a95c16bdbaf04553567046d175107f0",
