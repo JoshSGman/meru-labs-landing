@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/meru-labs-landing/precache-manifest.1c24242f1952377cd46f5d966a026da5.js"
+  "merulabs.co/precache-manifest.5a2cddec839615f0d2633fcbbc4e505e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/meru-labs-landing/index.html", {
+workbox.routing.registerNavigationRoute("merulabs.co/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
