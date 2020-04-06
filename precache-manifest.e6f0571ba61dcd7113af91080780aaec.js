@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "4ab7460ffe34dc218cfa",
-    "url": "/static/css/main.4d93a6ea.chunk.css"
+    "revision": "3d0bbf1018536ec3621a",
+    "url": "/static/css/main.21a07c9d.chunk.css"
   },
   {
-    "revision": "4ab7460ffe34dc218cfa",
-    "url": "/static/js/main.724b2fea.chunk.js"
+    "revision": "3d0bbf1018536ec3621a",
+    "url": "/static/js/main.720812f3.chunk.js"
   },
   {
-    "revision": "42ac5946195a7306e2a5",
-    "url": "/static/js/runtime~main.a8a9905a.js"
+    "revision": "fdfcfda2d9b1bf31db52",
+    "url": "/static/js/runtime~main.c5541365.js"
   },
   {
-    "revision": "2d5055537b40b1757cbf",
-    "url": "/static/js/2.ac0b7c77.chunk.js"
+    "revision": "04eafdf852d985298145",
+    "url": "/static/js/2.bddbbffd.chunk.js"
   },
   {
     "revision": "69366185dfb648a12f6d2531d03a3cb1",
@@ -48,6 +48,10 @@ self.__precacheManifest = [
     "url": "/static/media/TTChocolates-Black.6b358842.woff2"
   },
   {
+    "revision": "78fd534b6aac07b9a4e94bdf42b9617f",
+    "url": "/static/media/TTChocolates-Regular.78fd534b.woff"
+  },
+  {
     "revision": "803f922c80341e93fc401d15c1caf0fe",
     "url": "/static/media/TTChocolates-Light.803f922c.woff"
   },
@@ -56,19 +60,15 @@ self.__precacheManifest = [
     "url": "/static/media/TTChocolates-BoldItalic.b267554f.woff"
   },
   {
-    "revision": "78fd534b6aac07b9a4e94bdf42b9617f",
-    "url": "/static/media/TTChocolates-Regular.78fd534b.woff"
+    "revision": "1a95c16bdbaf04553567046d175107f0",
+    "url": "/static/media/TTChocolates-Black.1a95c16b.woff"
   },
   {
     "revision": "88ea61bb3c15c1d39ca5fc50f9c3c989",
     "url": "/static/media/TTChocolates-Italic.88ea61bb.woff"
   },
   {
-    "revision": "1a95c16bdbaf04553567046d175107f0",
-    "url": "/static/media/TTChocolates-Black.1a95c16b.woff"
-  },
-  {
-    "revision": "d9aa15e3c2c1bcea3a80b85033f91263",
+    "revision": "3a6eb3785f11c6e471f4cc7810105ceb",
     "url": "/index.html"
   }
 ];
