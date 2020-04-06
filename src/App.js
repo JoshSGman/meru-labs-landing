@@ -5,10 +5,6 @@ import doughDealerLogo from './Assets/DoughDealerLogo.png';
 import './App.css';
 import './Fonts/fonts.css';
 
-const goToMeru = () => {
-  window.open('https://www.merutattoocare.com', '_blank');
-};
-
 const App = () => (
   <div className="App">
     <header className="App-header">
@@ -21,20 +17,9 @@ const App = () => (
       <p className="App-work-main">Our Work:</p>
 
       <div className="App-links">
-        <div
-          onClick={ goToMeru }
-          className="App-link-container"
-          role="presentation"
-        >
+        <div className="App-link-container" role="presentation">
           <img src={ meruTattooCareLogo } className="App-link-logo" alt="logo" />
-          <span
-            className="App-link"
-            href="https://www.merutattoocare.com"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Tattoo Care Products
-          </span>
+          <span className="App-link">Tattoo Care Products</span>
         </div>
 
         <div className="App-link-container">
