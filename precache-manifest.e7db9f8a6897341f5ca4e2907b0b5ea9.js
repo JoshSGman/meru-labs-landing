@@ -32,16 +32,16 @@ self.__precacheManifest = [
     "url": "/static/media/TTChocolates-BoldItalic.c2192cf7.woff2"
   },
   {
-    "revision": "724c044bbac59ddec5445a4659df9d76",
-    "url": "/static/media/TTChocolates-Regular.724c044b.woff2"
-  },
-  {
     "revision": "ebd1813f130e3f50cadaa02cf70c8283",
     "url": "/static/media/TTChocolates-Light.ebd1813f.woff2"
   },
   {
     "revision": "d58427cabbcb19835e9e2abbc8b8be8a",
     "url": "/static/media/TTChocolates-Italic.d58427ca.woff2"
+  },
+  {
+    "revision": "724c044bbac59ddec5445a4659df9d76",
+    "url": "/static/media/TTChocolates-Regular.724c044b.woff2"
   },
   {
     "revision": "6b358842b03f80666f4e7e9d77530688",
