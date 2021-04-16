@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2a05b589-89e2-4c9e-be08-709a02cff0ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,9 +21,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="PackageJsonUpdateNotifier">
-    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="840" />
@@ -87,7 +85,7 @@
       <workItem from="1553536018416" duration="104000" />
       <workItem from="1553552417532" duration="3068000" />
       <workItem from="1586198054864" duration="414000" />
-      <workItem from="1618576909749" duration="1440000" />
+      <workItem from="1618576909749" duration="3305000" />
     </task>
     <servers />
   </component>
