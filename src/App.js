@@ -26,6 +26,16 @@ const App = () => (
           >
             <img src={ doughDealerLogo } className="App-link-logo" alt="logo" />
           </a>
+          <a
+            className="App-link"
+            href="https://doughdealer.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span>
+              Dough Dealer No-Knead Bread Kits & Bread Shop (Coming Soon)
+            </span>
+          </a>
         </div>
 
         <div className="App-link-container">
@@ -39,8 +49,16 @@ const App = () => (
               src={ niceLogo }
               className="App-link-logo"
               alt="logo"
-              style={ { maxHeight: '90px' } }
+              style={ { maxHeight: '76px' } }
             />
+          </a>
+          <a
+            className="App-link"
+            href="https://www.nicefilmlab.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span>Nice Film Photo Lab & Members Club</span>
           </a>
         </div>
       </div>
