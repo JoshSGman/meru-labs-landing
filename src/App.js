@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './Assets/MeruLabsLogo.png';
-import meruTattooCareLogo from './Assets/MeruTattooCareLogo.png';
 import doughDealerLogo from './Assets/DoughDealerLogo.png';
+import niceLogo from './Assets/nice_logo.png';
 import './App.css';
 import './Fonts/fonts.css';
 
@@ -17,19 +17,30 @@ const App = () => (
       <p className="App-work-main">Our Work:</p>
 
       <div className="App-links">
-        <div className="App-link-container" role="presentation">
-          <img src={ meruTattooCareLogo } className="App-link-logo" alt="logo" />
-          <span className="App-link">Tattoo Care Products</span>
+        <div className="App-link-container">
+          <a
+            className="App-link"
+            href="https://doughdealer.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src={ doughDealerLogo } className="App-link-logo" alt="logo" />
+          </a>
         </div>
 
         <div className="App-link-container">
-          <img src={ doughDealerLogo } className="App-link-logo" alt="logo" />
           <a
-            className="App-link App-link-null"
-            href="#ComingSoon"
+            className="App-link"
+            href="https://www.nicefilmlab.com"
+            target="_blank"
             rel="noopener noreferrer"
           >
-            Coming Soon
+            <img
+              src={ niceLogo }
+              className="App-link-logo"
+              alt="logo"
+              style={ { maxHeight: '90px' } }
+            />
           </a>
         </div>
       </div>
